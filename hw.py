@@ -1,2 +1,2 @@
-print("Ellina krutaya!")
+print("Ellina super krutaya!")
 
