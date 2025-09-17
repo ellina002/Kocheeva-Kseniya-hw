@@ -1,1 +1,1 @@
-print("leto proshlo horosho!")
+print("Ellina krytaya!")
